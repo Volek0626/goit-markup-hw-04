@@ -223,7 +223,7 @@ background-color: #404bbf;}
   gap: 24px;
   width: calc((100% - 72px) / 4);
 }
-.container features-container {
+.svg-container {
   display: flex; 
   align-items:center; 
   justify-content: center;
