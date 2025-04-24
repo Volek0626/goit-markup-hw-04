@@ -407,6 +407,8 @@ background-color: #404bbf;}
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
+  margin-left: auto;
+  
 }
 
 
@@ -429,6 +431,8 @@ background-color: #404bbf;}
   display: flex;
   align-items: baseline;
   margin-right: 120px;
+  margin-left: 156px;
+  width: fit-content;
 
 }
 .meredg-parag {
